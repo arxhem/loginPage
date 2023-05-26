@@ -166,7 +166,7 @@ header{
 .input-box label{
     position:absolute;
     top:50%;
-    left:5px;
+    left:15px;
     transform: translateY(-50%);
     font-size:1em;
     color:#162938;
